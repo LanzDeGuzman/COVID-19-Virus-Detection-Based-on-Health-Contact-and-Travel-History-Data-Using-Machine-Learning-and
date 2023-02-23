@@ -25,5 +25,8 @@ Using Max Depth None - **98.22%**
   Support Vector Model      - 96.32%
   Logistic Regression       - 96.75%
 
-## In running the code
+#### In running the code
 Use the jupyter notebook file to view and run the code. Remember to update the data set's file location to successfully run locally. 
+
+#### Collaborators
+Lourenzo Allan C. Dolera & Joph M. Bonifacio
